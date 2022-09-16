@@ -1,0 +1,18 @@
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 20px 80px 100px 80px;
+}
+
+nav ul{
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+nav ul li a{
+    color: rgba(34, 34, 34, 0.75);
+    font-weight: 400;
+    font-size: 16px;
+}

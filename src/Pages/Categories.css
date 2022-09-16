@@ -1,0 +1,25 @@
+.products-side{
+    display: flex;
+    gap: 56px;
+    justify-content: space-between;
+}
+
+.products-side article{
+    position: relative;
+    width: fit-content;
+}
+
+.products-side article h3{
+    position: absolute;
+    top: 24px;
+    left: 24px;
+    color: #3E3F43;
+    font-weight: 800;
+    font-size: 24px;
+}
+
+.products-side article Button{
+    position: absolute;
+    bottom: 24px;
+    right: 24px;
+}

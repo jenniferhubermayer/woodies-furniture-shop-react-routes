@@ -1,0 +1,39 @@
+.side-headline{
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+hr{
+    width: -webkit-fill-available;
+}
+
+.side-headline-wrapper{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.side-headline img{
+    width: 30px;
+    margin-right: 8px;
+}
+
+.side-headline h3{
+    color: #3E3F43;
+    font-size: 36px;
+    width: max-content;
+    margin-right: 14px;
+    font-weight: 700;
+}
+
+.side-headline h2{
+    color: rgba(34, 34, 34, 0.1);
+    font-size: 72px;
+    width: max-content;
+    margin-left: 14px;
+    font-weight: 800;
+    text-transform: uppercase;
+    white-space: nowrap;
+}

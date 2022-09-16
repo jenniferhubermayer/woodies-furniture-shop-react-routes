@@ -1,0 +1,31 @@
+footer{
+    margin-top: 125px;
+    background: url(https://images.pexels.com/photos/509922/pexels-photo-509922.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+    height: 327px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-color: #F1F1F1;
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 107px;
+}
+
+footer hr{
+    margin-top: 80px;
+    width: 50%;
+    color: #C4C4C4;
+    height: 1px;
+    margin-bottom: 24px;
+}
+
+footer div{
+    width: 100%;
+    line-height: 2rem;
+}
+footer .copyright{
+    width: 100%;
+    text-align: center;
+    margin-bottom: 24px;
+    margin-top: 45px;
+}
