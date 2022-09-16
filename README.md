@@ -48,8 +48,8 @@ Uses React Router to allow navigation between the different subpages. For the pr
 
 ### Links
 
-- Solution URL: [https://github.com/jenniferhubermayer/xxx](https://github.com/jenniferhubermayer/xxx)
-- Live Site URL: [xxx](xxx)
+- Solution URL: [https://github.com/jenniferhubermayer/woodies-furniture-shop-react-routes/](https://github.com/jenniferhubermayer/woodies-furniture-shop-react-routes/)
+- Live Site URL: [https://delightful-bunny-a80668.netlify.app/](https://delightful-bunny-a80668.netlify.app/)
 
 ## My process
 
